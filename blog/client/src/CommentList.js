@@ -14,7 +14,7 @@ export default ({ comments }) => {
         }
 
         if(comment.status === 'rejected'){
-            content = 'This comment has been rejected'
+            content = 'This comment has been rejected';
         }
 
 
